@@ -9,4 +9,4 @@ Both phishing and benign URLs of websites are
 gathered to form a dataset and from them required
 URL and website content-based features are extracted.
 The performance level of each model is measured and
-compared
+compared.
